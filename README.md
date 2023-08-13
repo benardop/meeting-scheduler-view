@@ -68,7 +68,7 @@ This will install the necessary node packages for the client and server, and sta
 
 **Expected output:**
 
-<img width="1153" alt="Screenshot 2023-05-06 at 12 15 45 PM" src="https://user-images.githubusercontent.com/51323046/236635325-26164e1f-2ad9-404b-a691-6b6f701dd5cd.png">
+<!-- <img width="1153" alt="Screenshot 2023-05-06 at 12 15 45 PM" src="https://user-images.githubusercontent.com/51323046/236635325-26164e1f-2ad9-404b-a691-6b6f701dd5cd.png"> -->
 
 **Note**: Make sure that the client starts on port 5173 and the server starts on port 3000. This is important because the web app uses static URLs for both the client and server, and changing the ports will break the app.
 
