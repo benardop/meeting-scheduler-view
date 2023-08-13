@@ -191,13 +191,7 @@ The Jira board contains a list of user stories, tasks, and bugs, and their corre
 Feel free to browse our Jira board to get an idea of our progress and to view the tasks that we are currently working on.
 
 
-## Group Members - Tu Beer hai, BC
-The following are the members of our project team:
-
-- Samar Kansal (Github: [samarkansal](https://github.com/samarkansal))</br> VT ID: samarkansal
-- Shankar Srinidhi Srinivas (Github: [shankarsrinidhi](https://github.com/shankarsrinidhi))</br> VT ID: shankarsrinidhi
-- Ashrith Reddy Thukkaraju (Github: [AshrithReddyT](https://github.com/AshrithReddyT))</br> VT ID: ashrithreddyt
-- Amith Reddy Nalla Venkat (Github: [amith2233](https://github.com/amith2233))</br> VT ID: amithreddy
+## Group Members 
 
 Please feel free to contact any of our team members if you have any questions or concerns about our project.
 
